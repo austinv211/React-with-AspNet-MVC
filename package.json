@@ -18,7 +18,7 @@
     "browser-sync": "^2.26.7",
     "browser-sync-webpack-plugin": "^2.2.2",
     "css-loader": "^3.2.0",
-    "jquery": "^1.12.4",
+    "jquery": "^3.4.0",
     "popper.js": "^1.15.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
